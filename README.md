@@ -9,8 +9,8 @@
    pip install -r requirements.txt
    ```
    Configure Environment Variables:
-- Create a .env file in the project root.
-- Ensure that the variable names and values match those in the sample file.
+   
+### Create a .env file in the project root.
    ```bash
    set API_KEY=API_KEY
    alembic upgrade head
